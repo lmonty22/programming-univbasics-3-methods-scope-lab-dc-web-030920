@@ -11,5 +11,5 @@ def link
 end 
 
 def any_phrase(character)
-  puts phrase 
+  puts character
 end
